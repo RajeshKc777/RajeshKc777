@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on solo project of Pythohn Django<br>I am looking to collaborate on fullstack web project in Django.<br>I am looking for help with JS and Django <br>I am currently learning React<br>Ask me about Django related questions.<br>Fun fac: Django Looks easy but its confusing as hell.
+I am currently working on solo project of Python Django<br>I am looking to collaborate on fullstack web project in Django.<br>I am looking for help with JS and advanced Django <br>I am currently learning React<br>Ask me about Django related questions.<br>Fun fact: Django Looks easy but its confusing as hell.
 
 
 ## 🌐 Socials:
